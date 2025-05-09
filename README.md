@@ -3,8 +3,7 @@
 ## Requirments
 - Python 3.8+
 - Add ffmpeg.exe path to the run.py line 13.
-- Download FFmpeg from here: [https://ffmpeg.org/download.html](“Download FFmpeg from here: https://ffmpeg.org/download.html”)
-
+- Download FFmpeg from here: [https://ffmpeg.org/download.html]
 ## Setup
 ```bash
 git clone https://github.com/HuseyinSoykok/Video_to_Text_AI_Converter.git
